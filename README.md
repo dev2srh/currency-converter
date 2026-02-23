@@ -20,9 +20,7 @@ Built with a clean UI and responsive design, this application allows users to in
 
 ## 🖼️ Preview
 
-![Currency Converter Preview](./assets/preview.png)
-
-> Place your screenshot inside an `assets` folder and name it `preview.png`.
+![Currency Converter Preview](./src/assets/preview.png)
 
 ---
 
