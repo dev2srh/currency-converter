@@ -6,6 +6,12 @@ Built with a clean UI and responsive design, this application allows users to in
 
 ---
 
+## 🚀 Demo
+
+Live Demo: https://dev2srh.github.io/currency-converter/
+
+---
+
 ## ✨ Features
 
 - 🌍 Convert between multiple international currencies
@@ -21,12 +27,6 @@ Built with a clean UI and responsive design, this application allows users to in
 ## 🖼️ Preview
 
 ![Currency Converter Preview](./src/assets/preview.png)
-
----
-
-## 🚀 Demo
-
-Live Demo: https://dev2srh.github.io/currency-converter/
 
 ---
 
