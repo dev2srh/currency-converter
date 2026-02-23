@@ -27,7 +27,3 @@ Live Demo: https://dev2srh.github.io/currency-converter/
 ## 🖼️ Preview
 
 ![Currency Converter Preview](./src/assets/preview.png)
-
----
-
-## 📂 Project Structure
